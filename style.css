@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background: purple;
+}
+
+.modal {
+    background: white;
+    border-radius: 5px;
+    width: 200px;
+    height: 200px;
+    margin: 50px auto;
+}
+
+.modal .sm {
+    font-size: 15px;
+    padding: 10px 10px;
+}
+
+.sh {
+    font-size: 10px;
+    padding: 3px 10px;
+}
+
+.dis {
+    padding-left: 8px;
+    padding-top: 8px;
+}
+
+i {
+    border: 1px solid black;
+    border-radius: 100%;
+    padding: 8px;
+    font-size: 9px;
+}
+
+.cl {
+    padding-top: 65px;
+    padding-left: 140px;
+}
+
+.close {
+    padding: 8px;
+    background: purple;
+    color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+}
